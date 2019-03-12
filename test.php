@@ -1,4 +1,4 @@
 <?php
-require('zhua.php');
+echo 'Hello World';
 phpinfo();
 
